@@ -1,2 +1,2 @@
 # l_DAE
-Unofficial PyTorch implementation of [Deconstructing Denoising Diffusion Models for Self-Supervised Learning(l-DAE)](https://arxiv.org/pdf/2401.14404.pdf)
+Unofficial PyTorch implementation of [latent Denoising Autoencoder (l-DAE)](https://arxiv.org/abs/2401.14404)
